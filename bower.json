@@ -1,0 +1,29 @@
+{
+  "name": "Arden",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "authors": [
+    "GitHub"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "homepage": "https://github.com/atom/electron-quick-start",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}
