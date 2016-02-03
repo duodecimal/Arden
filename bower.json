@@ -1,29 +1,24 @@
 {
   "name": "Arden",
-  "description": "A minimal Electron application",
-  "main": "main.js",
+  "homepage": "https://github.com/duodecimal/Arden",
   "authors": [
-    "GitHub"
+    "Thanwa Nooploy <thanwa.npl@gmail.com>"
   ],
-  "license": "CC0-1.0",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
-  ],
-  "homepage": "https://github.com/atom/electron-quick-start",
+  "description": "",
+  "main": "",
   "moduleType": [],
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "lib",
     "test",
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.8",
-    "bootstrap": "~3.3.6"
+    "bootstrap": "~3.3.6",
+    "angular-bootstrap": "~1.1.0",
+    "angular-animate": "~1.4.9",
+    "angular-ui-router": "~0.2.15"
   }
 }
